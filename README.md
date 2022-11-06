@@ -60,7 +60,7 @@ And we're done! Congratulations you have successfully added Mercury Chat to your
 
 <br />
 
-![NuxtFullscreen](https://user-images.githubusercontent.com/17760631/196579669-c1bd1652-eeb1-4802-b67b-82127fe18700.PNG)
+![NuxtFullscreen](https://user-images.githubusercontent.com/17760631/200148502-f3e19b19-fdf7-4b22-a444-2bacbbbee070.PNG)
 
 <br />
 
@@ -73,7 +73,7 @@ There are some options allow you to customize the Mercury Chat experience. Below
 
 <br />
 
-![NuxtSmallScreen](https://user-images.githubusercontent.com/17760631/196579634-7f626535-b0c7-4a43-93df-1e1f48f600d2.PNG)
+![NuxtSmallScreen](https://user-images.githubusercontent.com/17760631/200148509-cfd9b642-5bce-4574-b12b-bd6fefe56743.PNG)
 
 <br />
 
