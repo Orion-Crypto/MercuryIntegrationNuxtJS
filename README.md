@@ -68,7 +68,7 @@ And we're done! Congratulations you have successfully added Mercury Chat to your
 There are some options allow you to customize the Mercury Chat experience. Below is an example of the options that can be used. The full option documentation can be found in the [Mercury Chat NPM Page](https://www.npmjs.com/package/@mercury-chat/vue-chat-previous)
 
 ```
-<MercuryChat position={'bottom-right'} hasFullscreen={false} />
+<MercuryChat position={'bottom-right'} hasFullscreen={false} showBackground={false}  />
 ```
 
 <br />
